@@ -1,3 +1,10 @@
+# Identifying Information:
+1. Name: Krishna Narayan
+2. Student ID: 2327205
+3. Email: narayan@chapman.edu
+4. Class: CPSC 298-03
+5. Assignment: cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
